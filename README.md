@@ -53,14 +53,5 @@ The PathLab Website Clone is a web application that mimics the functionality and
   5. The application should now be running locally, rendering HTML, CSS (including Tailwind CSS), and JavaScript.
 ---
 
-## Contributing:
-- We welcome contributions from the community. If you would like to contribute to the project, please follow these steps:
-  1. Fork the repository.
-  2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-  3. Make your changes and commit them: `git commit -m 'Add feature XYZ'`.
-  4. Push to your forked repository: `git push origin feature-name`.
-  5. Create a pull request on the original repository.
----
-
 ## License:
 - This project is licensed under the [Geekster](LICENSE).
